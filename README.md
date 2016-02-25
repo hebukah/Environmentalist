@@ -82,3 +82,4 @@ Just don’t be evil. Having said that, if you find a way to make environmental 
 ## Versioning
 
 We use Semantic Versioning. Yay for not breaking things!
+4. előadás...
